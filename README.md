@@ -97,6 +97,8 @@ pip install ".[dev]"
 
 Пример:
 
+Cоздать файл `config.json` (пример файла в `config.json.example`)
+
 ```json
 {
     "url": "https://<your domain>/100MB.bin",
